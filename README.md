@@ -129,14 +129,6 @@ To start the user interface just run the following commands :
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- Contact -->
-## Contact
-
-If you have any question or problem running this project just contact me: aymenMir1001@gmail.com
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- LICENSE -->
 ## License
 
