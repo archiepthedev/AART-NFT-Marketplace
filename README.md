@@ -2,7 +2,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-# AART-NFT-Marketplace
+# NFT-Marketplace
 
 Welcome to the AI-Generated NFT Marketplace! This project aims to revolutionize the world of digital collectibles by leveraging AI technology. With this app, users are able to mint AI-Generated NFTs, participate in auctions, trade NFTs with other users and earn royalties on secondary sales. Additionally, the app provides a seamless experience for creators to showcase their artwork and establish their brand through personalized NFT creator profiles.
 
